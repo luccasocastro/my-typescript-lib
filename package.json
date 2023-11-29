@@ -1,0 +1,20 @@
+{
+  "name": "my-tsc-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "src/dist/index.d.ts",
+  "keywords": [],
+  "author": "luccasocastro <emaildocastro.adm01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luccasocastro/my-typescript-lib/issues"
+  },
+  "homepage": "https://github.com/luccasocastro/my-typescript-lib",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
